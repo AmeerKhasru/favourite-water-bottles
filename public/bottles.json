@@ -1,0 +1,272 @@
+[
+  {
+    "id": 1,
+    "product_name": "HydroPeak Insulated Flask",
+    "category": "Sportswear",
+    "material": "Stainless Steel",
+    "capacity_ml": 950,
+    "color": "Midnight Blue",
+    "price": 34.99,
+    "in_stock": true,
+    "photo_url": "https://picsum.photos/id/160/600/400",
+    "alt_photo_url": "https://placehold.co/600x400/003366/FFFFFF?text=Insulated+Flask",
+    "features": ["Double-wall vacuum insulation", "BPA-free", "Leak-proof lid"],
+    "thermal_specs": {
+      "hot_safe": true,
+      "cold_safe": true,
+      "temp_retention_hrs": { "hot": 12, "cold": 24 }
+    }
+  },
+  {
+    "id": 2,
+    "product_name": "PureGlass Silicon Sleeve",
+    "category": "Lifestyle",
+    "material": "Borosilicate Glass",
+    "capacity_ml": 750,
+    "color": "Soft Sage",
+    "price": 24.50,
+    "in_stock": true,
+    "photo_url": "https://picsum.photos/id/225/600/400",
+    "alt_photo_url": "https://placehold.co/600x400/808080/FFFFFF?text=Glass+Bottle",
+    "features": ["Eco-friendly", "Impact resistant sleeve", "Wide mouth"],
+    "thermal_specs": {
+      "hot_safe": true,
+      "cold_safe": true,
+      "temp_retention_hrs": { "hot": 1, "cold": 2 }
+    }
+  },
+  {
+    "id": 3,
+    "product_name": "SwiftFlow Plastic Runner",
+    "category": "Fitness",
+    "material": "Tritan Plastic",
+    "capacity_ml": 600,
+    "color": "Electric Lime",
+    "price": 15.99,
+    "in_stock": false,
+    "photo_url": "https://picsum.photos/id/429/600/400",
+    "alt_photo_url": "https://placehold.co/600x400/32CD32/FFFFFF?text=Plastic+Bottle",
+    "features": ["One-click flip top", "Carrying strap", "Dishwasher safe"],
+    "thermal_specs": {
+      "hot_safe": false,
+      "cold_safe": true,
+      "temp_retention_hrs": { "hot": 0, "cold": 2 }
+    }
+  },
+  {
+    "id": 4,
+    "product_name": "Titan 2L Motivational Jug",
+    "category": "Bodybuilding",
+    "material": "BPA-Free Plastic",
+    "capacity_ml": 2000,
+    "color": "Frosted Black",
+    "price": 22.00,
+    "in_stock": true,
+    "photo_url": "https://picsum.photos/id/355/600/400",
+    "alt_photo_url": "https://placehold.co/600x400/000000/FFFFFF?text=2L+Jug",
+    "features": ["Time markers", "Removable straw", "Sturdy handle"],
+    "thermal_specs": {
+      "hot_safe": false,
+      "cold_safe": true,
+      "temp_retention_hrs": { "hot": 0, "cold": 4 }
+    }
+  },
+  {
+    "id": 5,
+    "product_name": "MiniSip Kids Insulated",
+    "category": "Kids",
+    "material": "Stainless Steel",
+    "capacity_ml": 350,
+    "color": "Sky Blue",
+    "price": 19.99,
+    "in_stock": true,
+    "photo_url": "https://picsum.photos/id/312/600/400",
+    "alt_photo_url": "https://placehold.co/600x400/87CEEB/FFFFFF?text=Kids+Bottle",
+    "features": ["Easy-sip straw lid", "Small hand grip", "Shatterproof"],
+    "thermal_specs": {
+      "hot_safe": true,
+      "cold_safe": true,
+      "temp_retention_hrs": { "hot": 6, "cold": 12 }
+    }
+  },
+  {
+    "id": 6,
+    "product_name": "AquaSteel Pro Thermo",
+    "category": "Sportswear",
+    "material": "Stainless Steel",
+    "capacity_ml": 1000,
+    "color": "Crimson Red",
+    "price": 39.99,
+    "in_stock": true,
+    "photo_url": "https://picsum.photos/id/101/600/400",
+    "alt_photo_url": "https://placehold.co/600x400/8B0000/FFFFFF?text=Thermo+Bottle",
+    "features": ["Triple insulation", "Sweat-free exterior", "Wide mouth"],
+    "thermal_specs": {
+      "hot_safe": true,
+      "cold_safe": true,
+      "temp_retention_hrs": { "hot": 18, "cold": 36 }
+    }
+  },
+  {
+    "id": 7,
+    "product_name": "EcoSip Bamboo Flask",
+    "category": "Lifestyle",
+    "material": "Bamboo Fiber",
+    "capacity_ml": 500,
+    "color": "Natural Wood",
+    "price": 27.75,
+    "in_stock": true,
+    "photo_url": "https://picsum.photos/id/102/600/400",
+    "alt_photo_url": "https://placehold.co/600x400/A0522D/FFFFFF?text=Bamboo+Bottle",
+    "features": ["Biodegradable", "Lightweight", "Smooth finish"],
+    "thermal_specs": {
+      "hot_safe": true,
+      "cold_safe": true,
+      "temp_retention_hrs": { "hot": 2, "cold": 4 }
+    }
+  },
+  {
+    "id": 8,
+    "product_name": "RunMate Hydration Pack",
+    "category": "Fitness",
+    "material": "Tritan Plastic",
+    "capacity_ml": 1200,
+    "color": "Neon Orange",
+    "price": 18.49,
+    "in_stock": true,
+    "photo_url": "https://picsum.photos/id/103/600/400",
+    "alt_photo_url": "https://placehold.co/600x400/FFA500/FFFFFF?text=Hydration+Pack",
+    "features": ["Leak-proof nozzle", "Ergonomic grip", "Lightweight"],
+    "thermal_specs": {
+      "hot_safe": false,
+      "cold_safe": true,
+      "temp_retention_hrs": { "hot": 0, "cold": 3 }
+    }
+  },
+  {
+    "id": 9,
+    "product_name": "BulkMax Gym Tank",
+    "category": "Bodybuilding",
+    "material": "BPA-Free Plastic",
+    "capacity_ml": 2500,
+    "color": "Matte Grey",
+    "price": 25.99,
+    "in_stock": true,
+    "photo_url": "https://picsum.photos/id/104/600/400",
+    "alt_photo_url": "https://placehold.co/600x400/808080/FFFFFF?text=Gym+Tank",
+    "features": ["Huge capacity", "Non-slip grip", "Measurement scale"],
+    "thermal_specs": {
+      "hot_safe": false,
+      "cold_safe": true,
+      "temp_retention_hrs": { "hot": 0, "cold": 5 }
+    }
+  },
+  {
+    "id": 10,
+    "product_name": "TinyTrek Kids Bottle",
+    "category": "Kids",
+    "material": "Stainless Steel",
+    "capacity_ml": 400,
+    "color": "Candy Pink",
+    "price": 17.50,
+    "in_stock": true,
+    "photo_url": "https://picsum.photos/id/105/600/400",
+    "alt_photo_url": "https://placehold.co/600x400/FFC0CB/FFFFFF?text=Kids+Bottle",
+    "features": ["Cartoon print", "Easy open lid", "Durable build"],
+    "thermal_specs": {
+      "hot_safe": true,
+      "cold_safe": true,
+      "temp_retention_hrs": { "hot": 5, "cold": 10 }
+    }
+  },
+  {
+    "id": 11,
+    "product_name": "ChillCore Ice Bottle",
+    "category": "Sportswear",
+    "material": "Stainless Steel",
+    "capacity_ml": 800,
+    "color": "Ice Silver",
+    "price": 29.99,
+    "in_stock": true,
+    "photo_url": "https://picsum.photos/id/106/600/400",
+    "alt_photo_url": "https://placehold.co/600x400/C0C0C0/000000?text=Ice+Bottle",
+    "features": ["Rapid cooling", "Condensation-free", "Slim design"],
+    "thermal_specs": {
+      "hot_safe": true,
+      "cold_safe": true,
+      "temp_retention_hrs": { "hot": 10, "cold": 20 }
+    }
+  },
+  {
+    "id": 12,
+    "product_name": "UrbanGlass Flip Bottle",
+    "category": "Lifestyle",
+    "material": "Borosilicate Glass",
+    "capacity_ml": 650,
+    "color": "Charcoal",
+    "price": 21.00,
+    "in_stock": true,
+    "photo_url": "https://picsum.photos/id/107/600/400",
+    "alt_photo_url": "https://placehold.co/600x400/36454F/FFFFFF?text=Glass+Flip",
+    "features": ["Flip cap", "Anti-slip sleeve", "Minimalist design"],
+    "thermal_specs": {
+      "hot_safe": true,
+      "cold_safe": true,
+      "temp_retention_hrs": { "hot": 1, "cold": 3 }
+    }
+  },
+  {
+    "id": 13,
+    "product_name": "SprintFlow Sport Bottle",
+    "category": "Fitness",
+    "material": "Tritan Plastic",
+    "capacity_ml": 700,
+    "color": "Ocean Blue",
+    "price": 16.75,
+    "in_stock": true,
+    "photo_url": "https://picsum.photos/id/108/600/400",
+    "alt_photo_url": "https://placehold.co/600x400/1E90FF/FFFFFF?text=Sport+Bottle",
+    "features": ["Quick sip valve", "Lightweight", "Carry loop"],
+    "thermal_specs": {
+      "hot_safe": false,
+      "cold_safe": true,
+      "temp_retention_hrs": { "hot": 0, "cold": 3 }
+    }
+  },
+  {
+    "id": 14,
+    "product_name": "IronGrip Power Jug",
+    "category": "Bodybuilding",
+    "material": "BPA-Free Plastic",
+    "capacity_ml": 1800,
+    "color": "Jet Black",
+    "price": 23.49,
+    "in_stock": true,
+    "photo_url": "https://picsum.photos/id/109/600/400",
+    "alt_photo_url": "https://placehold.co/600x400/000000/FFFFFF?text=Power+Jug",
+    "features": ["Heavy-duty build", "Ergonomic handle", "Leak-proof"],
+    "thermal_specs": {
+      "hot_safe": false,
+      "cold_safe": true,
+      "temp_retention_hrs": { "hot": 0, "cold": 4 }
+    }
+  },
+  {
+    "id": 15,
+    "product_name": "HappySip Junior Flask",
+    "category": "Kids",
+    "material": "Stainless Steel",
+    "capacity_ml": 300,
+    "color": "Sunny Yellow",
+    "price": 18.25,
+    "in_stock": true,
+    "photo_url": "https://picsum.photos/id/110/600/400",
+    "alt_photo_url": "https://placehold.co/600x400/FFD700/000000?text=Junior+Flask",
+    "features": ["Spill-proof lid", "Fun design", "Compact size"],
+    "thermal_specs": {
+      "hot_safe": true,
+      "cold_safe": true,
+      "temp_retention_hrs": { "hot": 4, "cold": 8 }
+    }
+  }
+]
