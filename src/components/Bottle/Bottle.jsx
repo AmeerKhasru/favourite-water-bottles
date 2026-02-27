@@ -8,11 +8,7 @@ const Bottle = ({ bottle, handleAddToCart }) => {
     };
     return (
        <div className={`bottle-card ${!bottle.in_stock ? 'out-of-stock' : ''}`}>
-      {/* Thermal Badges */}
-      <div className="thermal-badge">
-        {bottle.thermal_specs.hot_safe && <span>🔥 Hot</span>}
-        {bottle.thermal_specs.cold_safe && <span>❄️ Cold</span>}
-      </div>
+      
 
       <div className="image-container">
         <img 
