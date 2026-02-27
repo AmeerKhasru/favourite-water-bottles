@@ -1,25 +1,28 @@
 
 import './App.css'
-import { Suspense } from 'react'
+import { Suspense, useMemo } from 'react'
 import Bottles from './components/Bottles/Bottles'
+import Navbar from './components/Navbar/Navbar'
+import Footer from './components/Footer/Footer';
 
 
 function App() {
 
-  const bottlesPromise = fetch('/bottles.json ')
-  .then(res => res.json());
+  const bottlesPromise = useMemo(() => fetch('/bottles.json')
+  .then(res => res.json()), []);
 
   return (
     <>
 
-      <h1>Favourite water Bottles</h1>
+      <Navbar />
 
       <Suspense fallback="Loading bottles...">
         <Bottles  bottlesPromise={bottlesPromise}/>
       </Suspense>
-
+      <Footer />
 
     </>
+    
   )
 }
 

@@ -42,3 +42,14 @@
 .read-the-docs {
   color: #888;
 }
+
+app-wrapper {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+.main-content {
+  flex: 1;
+  padding: 20px 0;
+}
