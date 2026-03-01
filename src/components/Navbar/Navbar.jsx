@@ -19,7 +19,7 @@ function Navbar() {
             <li><a href="/shop">Shop</a></li>
             <li><a href="/collections">Collections</a></li>
             <li><a href="/about">About</a></li>
-            <li><a href="/guide">Bottle Guide</a></li>
+            
           </ul>
         </div>
 
